@@ -50,32 +50,6 @@ BROWN CORPUS
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Corpus  : Brown corpus
  
 1.Divide corpus into two sections one for training and one for testing which contain first 10 sentences.
