@@ -37,16 +37,11 @@ Assumptions:
 2. Probability of tag only depends on its previous tag.
 
 
-
-
-
-
-
-
 PROCEDURE
 
 BROWN CORPUS
 
+![](images.png)
 
 
 
